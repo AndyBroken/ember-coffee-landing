@@ -7,3 +7,7 @@ One-page landing site for a neighborhood coffee shop in Austin, TX.
 **Tech:** HTML5, CSS3, vanilla JavaScript — a single file, no build step. Photos: Unsplash.
 
 *Concept / demo project — Ember Coffee Co. is a fictional brand.*
+
+## License
+
+© 2026 Andrey ([AndyBroken](https://github.com/AndyBroken)). All rights reserved. This is a portfolio demo: you may view it, but not copy or reuse the code or design. See [LICENSE](LICENSE).
